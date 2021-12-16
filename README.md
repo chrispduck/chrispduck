@@ -8,7 +8,7 @@ I'm a full-time software engineer at Cambridge Consultants, UK. My education bac
 
 
 ## Current Projects
-* 📚📚 Currently attending a 12 week [avalanche bootcamp](https://www.encode.club/avalanche-bootcamp) by [encode club](https://www.encode.club) to learn **Solidity** and **Web3** tools. 🤓
+* 📚📚 Attending a 12 week [avalanche bootcamp](https://www.encode.club/avalanche-bootcamp) by [encode club](https://www.encode.club) to learn **Solidity** and **Web3** tools. 🤓
 * 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
 <!-- * 🤖🤖  Researching **Tactile Robotics** with the **Oxford Robotics Institute**  -->
 * 👨🏻‍💻👨🏻‍💻 Building systems in **Kubernetes** and **Go**
