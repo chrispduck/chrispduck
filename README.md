@@ -1,18 +1,19 @@
 ## About me 👨‍🚀
-I'm a full-time software engineer at Cambridge Consultants, UK. My education background is in Robotics, ML and research. Lately, I've been taking my interest in Web3 to the next level 🚀.  
+I'm a full-time software engineer at Cambridge Consultants, UK. My education background is in Robotics, ML and research with the Oxford Robotics Institute. Lately, I've been taking my interest in Web3 to the next level 🚀.  
 
 - 🌱👨🏻‍🎓 I’m currently learning **Solidity** and **Javascript**.
 -  👋 I’m looking to collaborate on a **DeFi trading** or **Web3** project.
--  📫 Reach me on LinkedIn
+-  📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 <!-- - 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
 
 
 ## Current Projects
 * 📚📚 Currently attending a 12 week [avalanche bootcamp](https://www.encode.club/avalanche-bootcamp) by [encode club](https://www.encode.club) to learn **Solidity** and **Web3** tools. 🤓
 * 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
-<!-- * 🤖🤖 Collaborating on research with the Oxford Robotics Institute  -->
+<!-- * 🤖🤖  Researching **Tactile Robotics** with the **Oxford Robotics Institute**  -->
 * 👨🏻‍💻👨🏻‍💻 Building systems in **Kubernetes** and **Go**
 * 💬💬 Ask me about **EVM**, **solidity**, **data privacy**, **python**, **golang**, **kubernetes**. 
+
 
 ## My Backend Toolkit
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
