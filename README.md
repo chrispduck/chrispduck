@@ -1,10 +1,20 @@
-## 👋 Hello! I’m Chris Parsons
-- 👀 I’m interested in building Web3
-- 🌱 I’m currently learning solidity and Javascript.
-- 💞️ I’m looking to collaborate on a DeFi, or trading project.
-- 📫 Reach me on discord.
+## About me 👨‍🚀
+I'm a full-time software engineer at Cambridge Consultants, UK. My education background is in Robotics, ML and research. Lately, I've been taking my interest in Web3 to the next level 🚀.  
 
-## My Toolkit
+- 🌱👨🏻‍🎓 I’m currently learning **Solidity** and **Javascript**.
+-  👋 I’m looking to collaborate on a **DeFi trading** or **Web3** project.
+-  📫 Reach me on discord, email or linkedIn.
+<!-- - 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
+
+
+## Current Projects
+* 📚📚 Currently attending a 12 week [avalanche bootcamp](https://www.encode.club/avalanche-bootcamp) by [encode club](https://www.encode.club) to learn **Solidity** and **Web3** tools. 🤓
+* 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
+<!-- * 🤖🤖 Collaborating on research with the Oxford Robotics Institute  -->
+* 👨🏻‍💻👨🏻‍💻 Building systems in **Kubernetes** and **Go**
+* 💬💬 Ask me about **EVM**, **solidity**, **data privacy**, **python**, **golang**, **kubernetes**. 
+
+## My Backend Toolkit
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 
@@ -35,6 +45,7 @@
 <a href="https://pytorch.org"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="git" style="height:50px"/>
 </a>
+
 <!---
 chrispduck/chrispduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
