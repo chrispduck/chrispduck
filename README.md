@@ -3,7 +3,7 @@ I'm a full-time software engineer at Cambridge Consultants, UK. My education bac
 
 - 🌱👨🏻‍🎓 I’m currently learning **Solidity** and **Javascript**.
 -  👋 I’m looking to collaborate on a **DeFi trading** or **Web3** project.
--  📫 Reach me on discord, email or linkedIn.
+-  📫 Reach me on **LinkedIn**.
 <!-- - 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
 
 
