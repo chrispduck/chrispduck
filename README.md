@@ -20,7 +20,7 @@ I'm a full-time software engineer at Cambridge Consultants, UK. My education bac
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 
 <a href="https://www.python.org"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" style="height:50px;"/>
+  <img src="images/Python-logo-notext.svg" alt="python" style="height:50px;"/>
 </a>
 &nbsp &nbsp
 <a href="https://golang.org/"> 
