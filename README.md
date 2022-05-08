@@ -4,7 +4,7 @@ I'm a software dev building a new web3 project, in London UK. My education backg
 - 🌱👨🏻‍🎓 I’m currently learning **Cairo** and **Rust**.
 - 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
 - 💬💬 Ask me about **EVM**, **solidity**, **data privacy**, **python**, **golang**, **kubernetes**. 
--  📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
+- 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 <!-- - 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
 
 ## Past Projects
