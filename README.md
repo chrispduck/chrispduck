@@ -1,5 +1,5 @@
 ## About me 👨‍🚀
-I'm a software dev building a new web3 project, in London UK. My education background is in Robotics, ML and research with the Oxford Robotics Institute. I've fallen head first into the rabbithole, building DApps, and you may never see me again🚀 
+I'm a software dev building a new web3 project, in London UK. My education background is in Robotics, ML, and software. I've fallen head first into the rabbithole, building DApps, and you may never see me again🚀 
 
 - 🌱👨🏻‍🎓 I’m currently learning **Cairo** and **Rust**.
 - 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
