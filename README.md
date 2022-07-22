@@ -1,5 +1,5 @@
 ## About me 👨‍🚀
-Robotics & computing by trade, now building out in DeFi.
+I jam to Robotics, Mathematics, low latency programming. Now building in DeFi.
 
 - 🌱👨🏻‍🎓 I’m currently learning **Cairo** and **Rust**.
 - 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
