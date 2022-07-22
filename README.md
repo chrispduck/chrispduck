@@ -7,9 +7,6 @@ I'm a software dev building a new web3 project, in London UK. My education backg
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 <!-- - 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
 
-## Past Projects
- * 📚📚 Attending a 12 week [avalanche bootcamp](https://www.encode.club/avalanche-bootcamp) & 4 week exper solidity bootcamp by [encode club](https://www.encode.club) to learn **Solidity** and **Web3** tools. 🤓
-
 ## My Backend Toolkit
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
