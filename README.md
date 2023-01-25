@@ -1,11 +1,11 @@
 ## About me 👨‍🚀
-I jam to Robotics, Mathematics, and low latency systems. Now building in DeFi.
 
-<!-- - 🌱👨🏻‍🎓 I’m currently learning **Cairo** and **Rust**.
-- 💿💿 Researching **Decentralised** **Storage** solutions for **data privacy** and social good. 
-- 💬💬 Ask me about **EVM**, **solidity**, **data privacy**, **python**, **golang**, **kubernetes**. 
+Backend quantitative software developer.
+
+- 🔭🔭 Previously running tech at Grey Swan Finance.
+- 🌱🌱 I’m currently learning more about systems design.
+- 💬💬 Ask me about **python**, **golang**, **EVM**.
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
-- 💸😭 Resisting the urge to do a PhD in AI or Robotics -->
 
 ## My Backend Toolkit
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
