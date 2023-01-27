@@ -4,7 +4,8 @@ Backend quantitative software developer.
 
 
 > _"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible" - Richard Feynman_
- <br/><br/>
+
+<br/><br/>
 
 ## My projects 🚀
 - 🔭🔭 Previously running tech at Grey Swan Finance.
