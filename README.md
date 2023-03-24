@@ -6,7 +6,7 @@ Backend quantitative software developer.
 
 ## My projects 🚀
 - 🔭🔭 Previously running tech at Grey Swan Finance.
-- 🌱🌱 I’m currently learning more about systems design.
+- 🌱🌱 I’m currently learning Rust.
 - 💬💬 Ask me about **python**, **golang**, **EVM**.
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 
