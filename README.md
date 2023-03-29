@@ -10,9 +10,10 @@ Backend quantitative software developer.
 - 💬💬 Ask me about **python**, **golang**, **EVM**.
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 
-## My Backend Toolkit
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
+[//]: # (## My Backend Toolkit)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&theme=transparent&custom_title=My%20Stack&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 <a href="https://golang.org/"> 
@@ -40,7 +41,7 @@ Backend quantitative software developer.
 </a>
 <!-- &nbsp &nbsp
 <a href="https://git-scm.com"> 
-  <img src="images/git-logo.png" alt="git" style="height:50px;"/>
+  <img src="images/git-logo.png" alt="git" style="hteight:50px;"/>
 </a> -->
 &nbsp &nbsp
 <a href="https://pytorch.org"> 
