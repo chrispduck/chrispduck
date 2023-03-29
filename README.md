@@ -11,6 +11,8 @@ Backend quantitative software developer.
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 
 ## My Backend Toolkit
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 <a href="https://golang.org/"> 
@@ -44,6 +46,8 @@ Backend quantitative software developer.
 <a href="https://pytorch.org"> 
   <img src="images/pytorch-logo.svg" alt="git" style="height:50px"/>
 </a>
+
+
 
 <!---
 chrispduck/chrispduck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
