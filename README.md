@@ -13,14 +13,10 @@ Backend quantitative software developer.
 <br>
 
 [//]: # (## My Backend Toolkit)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&theme=dark&custom_title=My%20Stack&langs_count=6">
-  <img alt="Shows Chris' GitHub Stats." src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&theme=default&custom_title=My%20Stack&langs_count=6">
-</picture>
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&&custom_title=My%20Stack&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&&custom_title=My%20Stack&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&theme=transparent&custom_title=My%20Stack&langs_count=6&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 <a href="https://golang.org/"> 
@@ -54,6 +50,7 @@ Backend quantitative software developer.
 <a href="https://pytorch.org"> 
   <img src="images/pytorch-logo.svg" alt="git" style="height:50px"/>
 </a>
+
 
 
 <!---
