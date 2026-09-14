@@ -13,7 +13,6 @@
 [![Chris' GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&&custom_title=My%20Stack&langs_count=6&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Chris' GitHub stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&&custom_title=My%20Stack&langs_count=6&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=chrispduck&layout=compact&theme=transparent&custom_title=My%20Stack&langs_count=6&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 <!-- [![Go](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/ethereum_logo.png)](https://golang.org/)
 [![Solidity](https://github.com/martinloesethjensen/martinloesethjensen/raw/master/img/solidity_logo.png)](https://soliditylang.org/) -->
 <a href="https://golang.org/"> 
