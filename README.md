@@ -1,12 +1,9 @@
 ## About me 👨‍🚀
 
-Backend quantitative software developer.
-
 > _"Study hard what interests you the most in the most undisciplined, irreverent and original manner possible" - Richard Feynman_
 
 ## My projects 🚀
-- 🔭🔭 Quant dev @ DRW. Previously running tech at Grey Swan Finance.
-- 🌱🌱 I’m currently learning modern cpp.
+- 🔭🔭 Prev quant & research engineer @ DRW
 - 💬💬 Ask me about **python**, **golang**, **EVM**.
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 
