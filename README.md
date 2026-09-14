@@ -4,7 +4,7 @@
 
 ## My projects 🚀
 - 🔭🔭 Prev quant & research engineer @ DRW
-- 💬💬 Ask me about **python**, **golang**, **EVM**.
+- 💬💬 Ask me about **python**, **cpp**, **llm training**
 - 📫📫 Reach me on [LinkedIn](https://www.linkedin.com/in/chrisjamesparsons/)
 
 ## Technologies
